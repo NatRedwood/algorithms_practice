@@ -1,4 +1,4 @@
-# Algorithms_practice + CHEAT SHEETS
+# Algorithms_practice NOTES + CHEAT SHEETS
 
 ## Description
 
